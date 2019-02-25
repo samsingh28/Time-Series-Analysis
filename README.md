@@ -1,6 +1,6 @@
 #  Time Series Analysis for Stock Prediction
-The main goalof this project was to demonstrate the ability of models to generate predictions from a data set. 
-The data set in this project included data from Home Depot. This project makes use of a data set that contains stock prices along with variables such as daily high, daily low, volume, etc. My main goal in this project was to use different models to demonstrate the performance of these models and to judge these models on the basis of the accuracy of their predictions.
+The main goal of this project was to demonstrate the ability of models to generate predictions from a data set. 
+The data set in this project included data from Home Depot. This project makes use of a data set that contains stock prices along with variables such as daily high, daily low, volume, etc. The train/test split of the data was 80-20. Time series is applicable over a variety of areas and stock prediction is one of the. The models below are built from simple to complex in their ability to spot trends in the data and identify any seasonality.
 
 I made use of the following models:
 1. Linear Regression.
